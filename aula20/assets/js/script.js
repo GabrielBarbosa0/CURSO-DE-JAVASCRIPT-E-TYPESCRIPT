@@ -23,7 +23,6 @@ function meuEscopo() {
         resultado.innerHTML += `<p>
         ${nome.value} <br>
         ${sobrenome.value} <br>
-        ${peso.value} <br>
         ${altura.value}</p>`;
     }
 
